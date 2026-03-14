@@ -1,0 +1,21 @@
+sensor_name,sensor_placed,measured_quantity,upper_threshold,lower_threshold
+sensor_1,Compressor Inlet,Pressure,10,1.0
+sensor_2,Compressor Outlet,Pressure,40,10.0
+sensor_3,Compressor Cylinder,Temperature,120,20.0
+sensor_4,Compressor Shaft,Vibration,8,0.0
+sensor_5,Compressor Motor,Current,100,10.0
+sensor_6,Pump Inlet,Pressure,2,0.5
+sensor_7,Pump Outlet,Pressure,8,2.0
+sensor_8,Pump Bearing,Temperature,80,20.0
+sensor_9,Pump Shaft,Vibration,7,0.0
+sensor_10,Pump Motor,Current,90,10.0
+sensor_11,Valve (Suction/Discharge),Temperature,100,20.0
+sensor_12,Valve Position,% Open,100,0.0
+sensor_13,Motor (Main),Temperature,95,20.0
+sensor_14,Motor (Main),Current,110,10.0
+sensor_15,Cooling Circuit,Flow Rate,30,5.0
+sensor_16,Coolant Inlet,Temperature,50,10.0
+sensor_17,Coolant Outlet,Temperature,60,15.0
+sensor_18,Ambient,Temperature,45,10.0
+sensor_19,System Base,Vibration,5,0.0
+sensor_20,Main Header,Pressure,12,2.0
